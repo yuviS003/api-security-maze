@@ -1,0 +1,21 @@
+{
+  "name": "api-security-maze",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A dependency-free playable guide to 18 Node.js API security attacks and defenses.",
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "test": "npm run build && npm run validate"
+  },
+  "keywords": [
+    "api-security",
+    "nodejs",
+    "owasp",
+    "ddos",
+    "security-education",
+    "github-pages"
+  ],
+  "license": "MIT"
+}

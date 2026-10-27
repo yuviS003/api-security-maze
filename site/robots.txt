@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yuvis003.github.io/api-security-maze/sitemap.xml
